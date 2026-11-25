@@ -1,0 +1,57 @@
+# Hanged Games word list: one word or phrase per line.
+# Lines starting with # are ignored. Spaces and hyphens are shown from the start.
+# Use your own list with: java -jar hanged-games.jar --words my-words.txt
+
+# Things we learned at the bootcamp
+java
+object oriented
+static
+instance
+enumerations
+composition
+inheritance
+polymorphism
+interfaces
+exceptions
+containers
+collections
+nested classes
+input output
+network
+world wide web
+concurrent programming
+documentation
+conventions
+version control
+git
+gitlab
+bootcamp
+academia de código
+rubber duck
+homework
+toString
+hashCode
+garbage collector
+socket
+thread
+deadlock
+race condition
+virtual threads
+lambda
+stream
+generics
+unit test
+refactoring
+stack overflow
+null pointer exception
+merge conflict
+
+# A taste of Porto
+francesinha
+bifanas
+super bock
+tripas à moda do porto
+pastel de nata
+ribeira
+adapta-te
+aproveita as oportunidades
